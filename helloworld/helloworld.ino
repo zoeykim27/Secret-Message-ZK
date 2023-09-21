@@ -6,7 +6,7 @@
  Hitachi HD44780 driver. There are many of them out there, and you
  can usually tell them by the 16-pin interface.
 
- This sketch prints "Hello World!" to the LCD
+ This sketch prints "YESSIRRR" to the LCD
  and shows the time.
 
   The circuit:
